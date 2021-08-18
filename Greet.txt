@@ -1,0 +1,12 @@
+Paste this code as it is in you document file.
+
+Code:-
+
+Dim speaks, speech
+speaks="Type Here... Whatever you want to call"
+Set speech=CreateObject("sapi.spvoice")
+speech.Speak speaks
+
+And save it into .vbs extension.
+
+Thank you!
