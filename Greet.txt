@@ -8,5 +8,6 @@ Set speech=CreateObject("sapi.spvoice")
 speech.Speak speaks
 
 And save it into .vbs extension.
+After that press Win+R and search shell:startup and paste this .vbs file there in the startup folder taht appears.
 
 Thank you!
